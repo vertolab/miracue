@@ -66,11 +66,15 @@ Only 3 installation steps:
 2. Ask your Alexa-enabled device to enable the Mira Cue skill: **"Alexa, enable Mira Cue skill"**
     1. If you're having problems with activating the skill via voice, go to your Alexa app and enable the skill through the app.
 3. Go to the Alexa App, and initiate account linking for the Mira Cue skill.
+
+![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/alexa_app_shot_3.png)
+![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/alexa_app_shot_2.png)
 4. Once you're in the Mira Cue account linking page, Select **OK**.
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_15.png)
 5. Enter the 8 digit code displayed in the dialog to the appropriate field
     1. Your pairing code should contain 8 digits. See the marked frame in the following screenshot:
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_16.png)
+![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/alexa_app_shot_1.png)
 6. Wait for Alexa notification of success and click **OK**.
 7. Say *"Alexa, ask Mira Cue to go home"* to return to the main screen
 
