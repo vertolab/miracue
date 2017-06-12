@@ -71,7 +71,7 @@ msgid "Would you like to pair again?"
 msgstr ""
 
 msgctxt "#32031"
-msgid "1. Open the Alexa app and enable "Mira Cue remote for Kodi" skill"
+msgid "1. Open the Alexa app and enable "Mira Cue" skill"
 msgstr ""
 
 msgctxt "#32032"
