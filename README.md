@@ -9,7 +9,7 @@ How is it different from other solutions?
 You **only** need Kodi and Alexa. That's it.
 **No need for** Heroku / AWS or any of that.
 
-[![youtube video](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/youtube.png)](https://youtu.be/lhT2Eupi0Tc)
+[![youtube video](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/youtube.png)](https://youtu.be/9K9k9VhhiWY)
 
 ## Installation
 
