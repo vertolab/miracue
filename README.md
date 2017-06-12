@@ -65,13 +65,14 @@ Only 3 installation steps:
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_14.png)
 2. Ask your Alexa-enabled device to enable the Mira Cue skill: **"Alexa, enable Mira Cue skill"**
     1. If you're having problems with activating the skill via voice, go to your Alexa app and enable the skill through the app.
-3. Once the Mira Cue Alexa Skill is enabled, Select **OK**.
+3. Go to the Alexa App, and initiate account linking for the Mira Cue skill.
+4. Once you're in the Mira Cue account linking page, Select **OK**.
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_15.png)
-4. Ask your Alexa-enabled device to pair with your Kodi: **"Alexa, ask Mira Cue to pair with code XXXX XXXX"** (replace XXXX XXXX with the code that appears in the dialog).
+5. Enter the 8 digit code displayed in the dialog to the appropriate field
     1. Your pairing code should contain 8 digits. See the marked frame in the following screenshot:
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_16.png)
-5. Wait for Alexa notification of success and click **OK**.
-6. Say *"Alexa, ask Mira Cue to go home"* to return to the main screen
+6. Wait for Alexa notification of success and click **OK**.
+7. Say *"Alexa, ask Mira Cue to go home"* to return to the main screen
 
 That's it :) Now you can...
 
@@ -83,9 +84,9 @@ That's it :) Now you can...
 
 ## General Addon Comments
 
-The addon uses an always-on, encrypted connection to a server which forwards requests from the paired Alexa. In addition, all communication is only one-way (incoming into Kodi) so no sensitive user data is leaving the device. 
+The addon uses an always-on, encrypted connection to a server which forwards requests from the paired Alexa. In addition, all communication is one-way only (incoming into Kodi) so no sensitive user data is leaving the device. 
 
-To reduce stress on server resources, most processing is done in the addon itself. This allows the community to overview the implementation and suggest improvements.
+To reduce stress on server resources, most processing is done in the add-on itself. This allows the community to overview the implementation and suggest improvements.
 
 ### Developers
 Feel free to fork this repository, make changes and suggest them as improvements via pull requests.
