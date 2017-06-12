@@ -59,7 +59,7 @@ msgid "Wait for Mira Cue skill to become available."
 msgstr ""
 
 msgctxt "#32028"
-msgid "2. Start account linking for the skill, then click OK"
+msgid "2. Start skill linking in the Alexa App, then click OK"
 msgstr ""
 
 msgctxt "#32029"
@@ -71,7 +71,7 @@ msgid "Would you like to pair again?"
 msgstr ""
 
 msgctxt "#32031"
-msgid "1. Open the Alexa app and enable "Mira Cue" skill"
+msgid "1. Say [B]"Alexa, enable Mira Cue"[/B]"
 msgstr ""
 
 msgctxt "#32032"
